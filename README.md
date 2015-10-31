@@ -1,7 +1,9 @@
 # The Founders & Coders traineeship
 
 ## Why?
-Our aim is to help our students—school leavers, jobseekers and university graduates alike—develop those skills for which there is a high demand in the job market and which, for reasons outlined in Professor Alison Wolf's report for the Policy Institute, [*"Heading for the precipice"*](http://www.kcl.ac.uk/sspp/policy-institute/publications/Issuesandideas-alison-wolf-digital.pdf), they may not easily be able to develop elsewhere.
+As Professor Alison Wolf makes clear in her recent report for the Policy Institute, [*"Heading for the precipice"*](http://www.kcl.ac.uk/sspp/policy-institute/publications/Issuesandideas-alison-wolf-digital.pdf), traditional vocational training is in crisis in this country and routes into the digital sector are effectively closed off for the vast majority of the population.
+
+Our aim is to help our students—school leavers, jobseekers and university graduates alike—develop those skills for which there is a high and growing demand in the job market. 
 
 ![skills-spending](https://cloud.githubusercontent.com/assets/37059/10863423/0d97294c-7fc5-11e5-9523-5f915ae2865a.png)
 
