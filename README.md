@@ -23,7 +23,7 @@ We base all our programmes on peer-led learning. We encourage our students to be
 + Impress the world: create a great online profile for yourself 
 
 ### Job opportunities people move into
-In the space of little over a year, we have developed a fantastic reputation with employers for producing high-quality candidates for jobs in which there is an acute skills shortage. All of the graduates from our Summer 2015 cohort are now working as software developers. 
+In the space of little over a year, we have developed a fantastic reputation with employers for producing high-quality candidates for jobs in which there is an acute skills shortage. All 16 of the graduates from our Summer 2015 cohort are now working as software developers. 
 
 Our experience is largely with graduate-level trainees, but we are now adapting our methods for training programmes with other demographics and we have a growing network of employment partners with whom we have already established a relationship. 
 
