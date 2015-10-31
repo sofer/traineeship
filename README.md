@@ -22,8 +22,14 @@ We base all our programmes on peer-led learning. We encourage our students to be
 + Learn to search: use the web to find what you want
 + Impress the world: create a great online profile for yourself 
 
-### Some of the employers that graduates of our courses have gone on to work with
+### Job opportunities people move into
+In the space of little over a year, we have developed a fantastic reputation with employers for producing high-quality candidates for jobs in which there is an acute skills shortage. All of the graduates from our Summer 2015 cohort are now working as software developers. 
 
+Our experience is largely with graduate-level trainees, but we are now adapting our methods for training programmes with other demographics and we have a growing network of employment partners with whom we have already established a relationship. 
+
+When graduates of our traineeship are ready for work, we will do everything we can to place them. We will offer promising candidates the opportunity to continue working with us on our traineeship programme and eventually to apply for our advanced programme, which is very likely to lead to employment in a graduate-level job.
+
+### Some of the employers that graduates of our courses have gone on to work with
 + Guardian Newspaper Group
 + 8th Light
 + Arup
@@ -48,12 +54,7 @@ We base all our programmes on peer-led learning. We encourage our students to be
 + Internet Fachkraft
 + Sparrho
 
-### Job opportunities people move into
-All of the graduates from our most recent cohort are now working as software developers. Our experience is largely with graduate-level trainees but we relish the opportunity to test the quality of our training programme with other demographics. We have a growing network of employment partners. When graduates of our traineeship are ready for work, we will do everything we can to place them. We will also offer promising candidates the opportunity to apply for our advanced programme, which is almost guaranteed to lead to employment.
-
-
 ### Promotional quotes
-
 *"Founders & Coders is an inspiring organisation and an amazing source of motivated and gifted candidates. The Guardian's digital teams have successfully recruited junior developers from Founders & Coders, and we look forward to continuing to work closely with it and sharing in its success."*   
 Stephan Fowler, Guardian News & Media.
 
