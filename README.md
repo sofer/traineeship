@@ -38,16 +38,19 @@ When graduates of our traineeship are ready for work, we will do everything we c
 + Methods Digital
 + WCRS (The Engine Group)
 + Hogarth Worldwide
-+ Roox
-+ dwyl
 + Southbank Centre
 + Greater London Authority
 + Burberry
++ Roox
++ dwyl
 + Decoded
 + Proversity
++ Entrepreneur First
 + Experian
 + Savills
 + Xeneta
++ Experian
++ Photocrowd
 + Pancentric
 + 27 Partners
 + Blocks
